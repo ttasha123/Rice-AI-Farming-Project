@@ -31,7 +31,7 @@ Rice farming faces challenges due to resource inefficiencies and changing enviro
   ```
 - **Nuxt.js**: Install Nuxt CLI tools with:
   ```bash
-  pnpm install nuxt
+  npm install nuxt
   ```
 - **Node.js**: Ensure Node.js (v14 or higher) is installed.
 
