@@ -1,7 +1,3 @@
-Here's an updated README with the specified repository link and added emojis for a more engaging look:
-
----
-
 # 🌾 Rice-AI Farming Project
 
 Welcome to the **Rice-AI Farming Project** repository! This Nuxt.js project is an AI-driven system developed to empower rice farmers with real-time, actionable insights for enhanced crop management. 🌱 This project is part of a Bachelor's degree in Applied Computer Technology.
